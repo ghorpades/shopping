@@ -14,6 +14,13 @@
  
  
   <dependencies>
+  
+   <!-- link back end project  -->
+    <dependency>
+	<groupId>com.avaya</groupId>
+	<artifactId>shopping-backend</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
     
   <!--JAVA EE dependencies   -->
 
